@@ -1,0 +1,24 @@
+0
+8
+B1: A G B
+B2: G F
+B3: B C
+B4: C F E
+B5: C D E
+B6: F E H
+B7: H D
+B8: C D
+A: H1 H2
+B: H3 H4
+C: H5
+D: H6 H7
+E: H8 H9
+F: H10
+G: H11 H12
+H: H13 H14
+4
+H1 H2
+H9 H2
+H4 H12
+H5 H9
+

@@ -1,0 +1,7 @@
+0
+5
+B1: A G B
+B2: G F
+B3: B C
+B4: C F E
+B5: C D E
