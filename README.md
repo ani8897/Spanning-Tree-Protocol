@@ -50,4 +50,4 @@ Each bridge initially claims that it itself is the root and sends the packet acc
 
 ## Algorithm for learning bridges:
 
-Same as discussed in the video lectures. For implementing, two queues of data packets, sent and received, were maintained for the purpose of trace and whenever there is nothing to be sent on any bridge, then it implies that the data packet has supposedly reached the required host.
+Same as discussed in any standard textbook. For implementing, two queues of data packets, sent and received, were maintained for the purpose of trace and whenever there is nothing to be sent on any bridge, then it implies that the data packet has supposedly reached the required host.
